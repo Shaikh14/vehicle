@@ -36,7 +36,7 @@ function jal_install() {
 		  `first_name` varchar(100) NOT NULL,
 		  `last_name` varchar(50) NOT NULL,
 		  `email` varchar(100) NOT NULL,
-          `phone` varchar(100) NOT NULL,
+                  `phone` varchar(100) NOT NULL,
 		  `vehicle_type` varchar(100)  NOT NULL,
 		  `vehicle` varchar(100)  NOT NULL,
 		  `vehicle_price` varchar(100)  NOT NULL,
